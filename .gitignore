@@ -1,0 +1,20 @@
+*.PcbDoc.htm
+*.PcbDoc.bak
+*.SchDoc.bak
+*.PrjPcb.bak
+*.PcbLib.bak
+*.SchLib.bak
+History/
+__Previews/
+Project\ Logs*/
+Project\ Outputs*/
+*.log
+*.err
+*.txt
+*.DsnWrk.bak
+*.Annotation
+*.Constraint
+*.PostProcess
+*.Tcl
+*.Database
+*.PcbDoc.DesignAnalysis
