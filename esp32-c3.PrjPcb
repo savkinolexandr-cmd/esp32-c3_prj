@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=D:\Altium_Libraries\FROM_ST_SYTE\HDRV6W64P0X254_1X6_1524X254X839P.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CCXNDPUE
+
+[Document2]
 DocumentPath=D:\Altium_Libraries\Footprints\RES0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFVJXTHS
 
-[Document2]
+[Document3]
 DocumentPath=D:\Altium_Libraries\Footprints\ANTENNA24GHZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFHGNNDR
 
-[Document3]
+[Document4]
+DocumentPath=..\ESP32_C3prj\Schlib1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XEOPKVVN
+
+[Document5]
+DocumentPath=D:\Altium_Libraries\FROM_ST_SYTE\68000-106HLF.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BWSUKHEQ
+
+[Document6]
 DocumentPath=D:\Altium_Libraries\Symbols\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVYUSHKG
 
-[Document4]
+[Document7]
 DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSKWDHDK
 
-[Document5]
+[Document8]
 DocumentPath=esp32-c3.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,6 +184,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document9]
+DocumentPath=..\..\..\..\User\Desktop\my_beautiful_camera\i_even_dont_know\what_is_it.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZSSRTGDX
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for esp32-c3\Design Rule Check - PCB1.html
