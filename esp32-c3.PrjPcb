@@ -185,23 +185,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
-DocumentPath=..\..\..\..\User\Desktop\my_beautiful_camera\i_even_dont_know\what_is_it.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZSSRTGDX
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for esp32-c3\Design Rule Check - PCB1.html
 DItemRevisionGUID=
